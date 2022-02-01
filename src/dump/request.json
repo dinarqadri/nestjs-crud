@@ -1,0 +1,37 @@
+{
+    "draw": 1,
+    "columns": [
+        {
+            "data": "id",
+            "name": "",
+            "searchable": true,
+            "orderable": true,
+            "search": {
+                "value": "",
+                "regex": false
+            }
+        },
+        {
+            "data": "users",
+            "name": "",
+            "searchable": true,
+            "orderable": true,
+            "search": {
+                "value": "",
+                "regex": false
+            }
+        }
+    ],
+    "order": [
+        {
+            "column": 0,
+            "dir": "asc"
+        }
+    ],
+    "start": 0,
+    "length": 2,
+    "search": {
+        "value": "",
+        "regex": false
+    }
+}
